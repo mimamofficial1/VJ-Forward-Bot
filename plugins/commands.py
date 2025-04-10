@@ -21,7 +21,7 @@ START_TIME = time.time()
 # Ask Doubt on telegram @KingVJ01
 
 main_buttons = [[
-    InlineKeyboardButton('🇮🇳 Cʀᴇᴀᴛᴏʀ 🇮🇳', url='https://t.me/mimam_officialx')
+    InlineKeyboardButton('🇮🇳 Cʀᴇᴀᴛᴏʀ :', url='https://t.me/mimam_officialx')
 ],[
     InlineKeyboardButton('🔍 sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ', url='https://t.me/Tv_Serial_Search_Group'),
     InlineKeyboardButton('🤖 ᴜᴘᴅᴀᴛᴇ ᴄʜᴀɴɴᴇʟ', url='https://t.me/MRN_RIPPER')
