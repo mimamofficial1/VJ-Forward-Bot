@@ -23,10 +23,10 @@ START_TIME = time.time()
 main_buttons = [[
     InlineKeyboardButton('🇮🇳 Cʀᴇᴀᴛᴏʀ :', url='https://t.me/mimam_officialx')
 ],[
-    InlineKeyboardButton('🔍 sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ', url='https://t.me/Tv_Serial_Search_Group'),
-    InlineKeyboardButton('🤖 ᴜᴘᴅᴀᴛᴇ ᴄʜᴀɴɴᴇʟ', url='https://t.me/MRN_RIPPER')
+    InlineKeyboardButton('👨‍💻 ᴄᴏɴᴛᴀᴄᴛ ᴜs', url='https://t.me/MRN_CONTACT_BOT'),
+    InlineKeyboardButton('💝 ᴍᴏᴠɪᴇ sᴇᴀʀᴄʜ ɢʀᴏᴜᴘ', url='https://t.me/MRN_Movies_Search_Group')
 ],[
-    InlineKeyboardButton('💝 sᴜʙsᴄʀɪʙᴇ ᴍʏ ʏᴏᴜᴛᴜʙᴇ ᴄʜᴀɴɴᴇʟ', url='https://youtube.com/@mimam_official?si=0-mwZiRkA29lYaEm')
+    InlineKeyboardButton('⚜️ sᴜʙsᴄʀɪʙᴇ ᴍʏ ᴛᴇʟᴇɢʀᴀᴍ ᴄʜᴀɴɴᴇʟ', url='https://t.me/+STRuLEmZ7AgxZjA1')
 ],[
     InlineKeyboardButton('👨‍💻 ʜᴇʟᴘ', callback_data='help'),
     InlineKeyboardButton('💁 ᴀʙᴏᴜᴛ', callback_data='about')
